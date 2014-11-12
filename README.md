@@ -12,7 +12,7 @@ npm install git+https://github.com/bdunford/xml.git
 
 __package.json as a dependency__<br />
 add "helpers": "git+https://github.com/bdunford/xml.git" to dependencies <br />
-```
+```json
 {
     "name": "your-app",
     "version": "0.0.0",
