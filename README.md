@@ -26,7 +26,7 @@ add "helpers": "git+https://github.com/bdunford/xml.git" to dependencies <br />
 ```
 __Raw__<br />
 ```git clone https://github.com/bdunford/xml```<br />
-_Be sure to run npm install from with in the __xml__ directory_
+Be sure to run npm install from with in the __xml__ directory
 
 ##Usage
 
