@@ -19,7 +19,7 @@ add "helpers": "git+https://github.com/bdunford/xml.git" to dependencies <br />
     "private": true,
     "description": "just another node app",
     "dependencies": {
-        "helpers": "git+https://github.com/bdunford/xml.git"
+        "xml": "git+https://github.com/bdunford/xml.git"
     }
 }
 
