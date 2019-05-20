@@ -1,11 +1,11 @@
-#xml
+# xml
 
 Just another Node XML library created as an atempt to make XML serialization as simple and straight forward as JSON serialization
 
 Requires Nodejs http://nodejs.org
 
 
-##Installing
+## Installing
 
 __From the Command Line__<br />
 npm install git+https://github.com/bdunford/xml.git
